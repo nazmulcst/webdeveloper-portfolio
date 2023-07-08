@@ -144,3 +144,9 @@ font-weight: 700;
 }
 
 
+.resume-container{
+ display: flex;
+ align-items: center;
+}
+
+
