@@ -177,3 +177,11 @@ margin-bottom: 10px;
   text-align: center;
   margin-top: 50PX;
 }
+
+/* footer styles*/
+footer{
+  display: flex;
+  background: #FFF8F3;
+  margin-top: 120px;
+  padding: 130px 200px;
+}
