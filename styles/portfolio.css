@@ -60,9 +60,10 @@ nav a{
 /* header related style */
 .header{
  background-color: #FFF8F3;
- background-image: url('../images/header_bg.png');
+ background-image: url('../images/header_bg.png'),  url('../images/developer.png');
  background-repeat: no-repeat;
- background-position: bottom right;
+ background-position: bottom right, top left;
+ margin: right 0px;
 }
 .banner{
  padding:60px 60 px 0 px 150px;
@@ -83,7 +84,7 @@ nav a{
 .banner-greeting{
  font-size: 45px;
  color: color #474747);
- margin: button 0;
+ margin: button 0px;
 }
 .banner-title{
  font-size: 85px;
